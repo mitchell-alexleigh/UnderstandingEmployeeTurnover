@@ -1,6 +1,3 @@
-Awesome, thanks for the details! Here's a polished `README.md` you can use or tweak to your liking. It's professional but still friendly and clear—great for an academic or portfolio setting:
-
----
 
 # Understanding Employee Turnover
 
