@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains materials for a project proposal titled **"Understanding Employee Turnover"**, which presents a full analysis approach to exploring the causes, effects, and solutions related to employee turnover.
+This repository contains materials for a project proposal titled **"Understanding Employee Turnover"**, which requests further exploration into the causes, effects, and solutions related to employee turnover.
 
 This project was created as part of the Master of Data Science program at the University of Wisconsin Oshkosh. The primary goal was to demonstrate strong communication and presentation skills through a structured and professional delivery.
 
