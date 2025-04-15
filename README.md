@@ -16,8 +16,6 @@ This project was created as part of the Master of Data Science program at the Un
 
 ## Special Notes
 
-> This repository contains a presentation completed as part of my coursework for the Master of Data Science program at the University of Wisconsin Oshkosh. The purpose of this assignment was to demonstrate my presentation and communication skills.
-
 In the presentation, a specific company is addressed. However, it is important to clarify that:
 - This presentation was **never presented to**, **intended for**, or **reflective of** that organization.
 - Mentioning the company was a **requirement of the coursework** and should not be interpreted as an endorsement or critique.
