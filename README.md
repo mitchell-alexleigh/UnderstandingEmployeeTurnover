@@ -24,6 +24,3 @@ In the presentation, a specific company is addressed. However, it is important t
 
 This project is shared for educational and portfolio purposes only. No part of it is intended for commercial use or redistribution without permission.
 
----
-
-Want it a bit more casual or tailored for a portfolio site like GitHub Pages or Notion?
