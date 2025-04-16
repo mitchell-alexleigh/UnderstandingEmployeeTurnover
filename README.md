@@ -11,8 +11,10 @@ This project was created as part of the Master of Data Science program at the Un
 
 - 🎥 **Presentation Video** – A recorded presentation of the project proposal  
 - 📊 **Slide Deck** – The accompanying slides  
-- 📝 **Script** – Full script used as a guide for spoken presenation
+- 📝 **Script** – Full script used as a guide for spoken presentation
 - 📚 **Sources** – A list of cited and referenced materials
+- 📖 **Literature Review** – A review of key academic and industry research that informed the analysis and recommendations
+
 
 ## Special Notes
 
