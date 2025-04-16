@@ -38,5 +38,4 @@ Olsen (2016) reiterates that predictive analytics is relevant to understanding e
 ## Conclusion
 
 Modern employees expect more from their employers. Organizations must adapt. They need to understand what their employees need. They need to analyze trends and make predictions about turnover in order to react quickly.
-
-
+```
